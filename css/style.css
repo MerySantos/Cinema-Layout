@@ -1,0 +1,52 @@
+body{ font-family: 'Source Sans Pro', sans-serif;}
+h1{
+	font-size: 40px;
+	margin: 3%;}
+
+li { list-style: none;
+	margin:5px 0;}
+
+i{color: #FFF;}
+button{ color: #FFF;}
+.rl-bottom{
+	position: relative;
+	bottom: 10px;
+	left: 15px;
+	font-size: 10px;}
+
+.img-adpt{ 	width: 100%; }
+#cabecera-img{	height: 40px; }
+
+.rl-top{
+	position: relative;
+	top: 15px; }
+
+.texto-hueso{ color:#D8D8D8; }
+.texto-13{
+	font-size: 13px;
+}
+
+.hero-section{
+	background: url(../img/banner.jpg) #383837 no-repeat ;
+	background-size: contain;}
+
+.restriccion{
+	color: #04B45F;	
+	border-radius: 10%;
+	border: 2px solid #04B45F;
+	background: #383837;
+	padding: 3%;
+	margin: 3% 0;
+}
+.botones-dp{ 
+	border-radius: 7px;
+	width: 45%;
+	margin: 3% 0;
+	padding: 3%;
+	display: block;}
+
+.back-amarillo{ border:none;
+	background: #D9B41D ; }
+.back-naranja{border: none;
+	background: #B97A29;}
+
